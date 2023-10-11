@@ -1,0 +1,7 @@
+demo_register.register:
+  path: '/demo_register'
+  defaults:
+    _title: 'Registration'
+    _form: '\Drupal\demo_register\Form\RegisterForm'
+  requirements:
+    _permission: 'access content'

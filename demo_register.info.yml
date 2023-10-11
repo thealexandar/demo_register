@@ -1,0 +1,5 @@
+name: demo_register
+type: module
+description: 'custom register page'
+package: custom
+core_version_requirement: ^9 || ^10
